@@ -1,6 +1,14 @@
 ### Hi 👋, I'm Michael
 
-A passionate full stack developer from Scotland.
+I'm a software engineer from Scotland, with a strong passion for creating intuitive and efficient applications using .NET. I have a solid understanding of the technology and always strive to find new and innovative ways to approach problem-solving.
+
+I am an avid learner and always seeking new challenges to push myself and grow my skillset. Whether it's exploring new technologies or taking on complex projects, I am constantly seeking new opportunities to expand my knowledge and expertise.
+
+My ultimate goal as a software engineer is to use my skills to make a positive impact on people's lives. I believe that technology has the power to simplify and improve the way we live and work, and I am dedicated to being a part of that progress.
+
+If you're interested in working together or just want to chat, feel free to reach out! I'd love to hear from you.
+
+### What I'm currently up to
 
 - 🔭 I’m currently working with **.NET/C# and React.js/TypeScript projects**
 
