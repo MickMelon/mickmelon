@@ -1,10 +1,8 @@
 ### Hi 👋, I'm Michael
 
-I'm a software engineer from Scotland, with a strong passion for creating intuitive and efficient applications using .NET. I have a solid understanding of the technology and always strive to find new and innovative ways to approach problem-solving.
+I'm a software developer from Scotland with a passion for working with .NET and front-end technologies like React.js. I enjoy the challenge of creating efficient and scalable applications, and finding new and innovative ways to approach problem-solving.
 
-I am an avid learner and always seeking new challenges to push myself and grow my skillset. Whether it's exploring new technologies or taking on complex projects, I am constantly seeking new opportunities to expand my knowledge and expertise.
-
-My ultimate goal as a software engineer is to use my skills to make a positive impact on people's lives. I believe that technology has the power to simplify and improve the way we live and work, and I am dedicated to being a part of that progress.
+Staying current with the latest developments in my field is important to me, and I am always looking to expand my knowledge and skillset. Whether it's diving into a new technology or taking on a complex project, I am dedicated to continuous learning and growth as a software developer.
 
 If you're interested in working together or just want to chat, feel free to reach out! I'd love to hear from you.
 
