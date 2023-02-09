@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Michael
 
-I'm a software developer from Scotland with a passion for working with .NET and front-end technologies like React.js. I enjoy the challenge of creating efficient and scalable applications, and finding new and innovative ways to approach problem-solving.
+I'm a software developer from Scotland with a passion for working with .NET and front-end technologies like React.js. I enjoy the challenge of building clean and efficient software solutions, and finding new and innovative ways to approach problem-solving.
 
 Staying current with the latest developments in my field is important to me, and I am always looking to expand my knowledge and skillset. Whether it's diving into a new technology or taking on a complex project, I am dedicated to continuous learning and growth as a software developer.
 
